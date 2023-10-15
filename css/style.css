@@ -1,6 +1,9 @@
 body {
   background-color: rgb(252, 236, 213);
 }
+h1 {
+  text-align: center;
+}
 footer {
   text-align: center;
 }
